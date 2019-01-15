@@ -54,7 +54,7 @@ deps.rx = rx
 
 def kotlin = [:]
 
-kotlin.kotlin_jre = "org.jetbrains.kotlin:kotlin-stdlib-jre8:$versions.kotlin"
+kotlin.kotlin_jre = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$versions.kotlin"
 kotlin.kotlin_gradle_plugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:$versions.kotlin"
 deps.kotlin = kotlin
 
