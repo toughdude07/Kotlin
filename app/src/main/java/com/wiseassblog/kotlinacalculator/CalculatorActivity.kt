@@ -3,6 +3,7 @@ package com.wiseassblog.kotlincalculator
 import android.os.Bundle
 import android.support.v4.app.FragmentManager
 import android.support.v7.app.AppCompatActivity
+import com.com.kotlincalculator.R
 import com.wiseassblog.kotlincalculator.dependencyinjection.Injector
 import com.wiseassblog.kotlincalculator.view.CalculatorFragment
 

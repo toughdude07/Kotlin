@@ -1,4 +1,4 @@
-package com.wiseassblog.kotlincalculator
+package com.com.kotlincalculator
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

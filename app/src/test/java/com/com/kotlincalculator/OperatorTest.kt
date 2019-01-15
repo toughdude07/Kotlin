@@ -1,6 +1,6 @@
-package com.wiseassblog.kotlincalculator
+package com.com.kotlincalculator
 
-import com.wiseassblog.kotlincalculator.data.datamodel.OperatorDataModel
+import com.com.kotlincalculator.data.datamodel.OperatorDataModel
 import org.junit.Test
 
 /**
